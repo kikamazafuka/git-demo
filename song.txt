@@ -6,8 +6,3 @@ shield by shield
 one more line
 --------------
 
-second verse
-another line of second verse
-
-one more verse
-third verse line
